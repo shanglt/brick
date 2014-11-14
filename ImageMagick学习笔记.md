@@ -20,3 +20,5 @@ convert -delay 50 0.jpg 1.jpg -delay 100 2.jpg 3.jpg 4.jpg dest.gif
 [2]: http://elf8848.iteye.com/blog/382528
 [3]: http://stackoverflow.com/questions/15769623/imagemagick-convert-pdf-to-jpeg-has-poor-text-quality-after-upgrading-imagemagic?answertab=active#tab-top
 [4]: http://www.zouyesheng.com/imagemagick.html
+[5]: http://blog.csdn.net/jmppok/article/details/18815147
+[6]: http://superuser.com/questions/163818/how-to-install-rmagick-on-ubuntu-10-04

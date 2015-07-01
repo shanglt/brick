@@ -12,4 +12,4 @@
 > 4. 下一步到Finish
 
 [参考](http://freemarker.org/editors.html)
-[直接下载](http://tools.jboss.org/downloads/)
+[下载](http://tools.jboss.org/downloads/)

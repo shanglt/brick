@@ -15,3 +15,6 @@ service mysql start
 # 停止mysql
 service mysql stop
 ```
+
+
+# 设置权限

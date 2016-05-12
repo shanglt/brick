@@ -5,3 +5,5 @@
 一个很不多的编辑器.
 
 [Builder](http://www.dcloud.io/)
+
+### IntelliJ IDEA

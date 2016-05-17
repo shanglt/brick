@@ -2,4 +2,4 @@
 
 
 [1]: http://www.zouyesheng.com/angular.html
-[2]:
+[1]: http://www.zouyesheng.com/angular.html

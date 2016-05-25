@@ -14,3 +14,12 @@
 
 > 接收一个请求，此时的tomcat启动的线程数已经到达maxThreads，等待队列中的请求个数也到达acceptCount，此时tomcat会直接拒绝此次请求，返回connection refused。
 
+connectionTimeout="20000"
+processorCache="1000"
+acceptCount="5000"
+acceptorThreadCount="8"#根据实际cpu核数配置
+maxThreads="2000"
+minSpareThreads="100"
+socket.appReadBufSize="1024"
+socket.appWriteBufSize="1024"
+socket.bufferPool="1000"

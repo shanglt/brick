@@ -1,4 +1,5 @@
 # Eclipse Install Freemarker Plugin
+# 建议使用IntelliJ IDEA
 
 安装环境：
 

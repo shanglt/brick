@@ -1,7 +1,4 @@
-# IDEA
-
-# 安装
-
+# IntelliJ IDEA
 
 
 #参考资料

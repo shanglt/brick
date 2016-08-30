@@ -1,5 +1,10 @@
 # IntelliJ IDEA
 
+### 关闭关闭重复代码提醒
+  1.Settings > Editor > Inspections
+  2.搜索"Duplicates Code"
+  3.取消勾选
+
 
 #参考资料
 
